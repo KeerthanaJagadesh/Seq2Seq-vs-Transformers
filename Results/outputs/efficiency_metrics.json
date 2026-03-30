@@ -1,0 +1,16 @@
+{
+  "seq2seq": {
+    "total_training_time_hours": 1.4986090586582819,
+    "peak_gpu_memory_gb": 9.983135744,
+    "avg_inference_latency_ms": 181.88568353652954,
+    "inference_latency_std_ms": 38.68205575197307,
+    "parameter_count": 98056528
+  },
+  "transformer": {
+    "total_training_time_hours": 0.17747073385450576,
+    "peak_gpu_memory_gb": 9.983135744,
+    "avg_inference_latency_ms": 440.35844802856445,
+    "inference_latency_std_ms": 87.76310651503474,
+    "parameter_count": 33022800
+  }
+}
